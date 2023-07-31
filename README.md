@@ -5,7 +5,7 @@
 ![merko][merko_repo]
 
 
-[merko_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Deepakhere&repo=Deepakhere.github.io&cache_seconds=86400&theme=merko
+[merko_repo]: https://github-readme-stats.vercel.app/api/pin/?username=Deepakhere&repo=Tic-tac&cache_seconds=86400&theme=merko
 
 
 
